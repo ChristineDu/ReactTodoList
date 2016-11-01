@@ -7,7 +7,7 @@ var TodoApp = React.createClass({
         TodoApp.jsx
       </div>
     );
-  };
+  }
 });
 
 module.exports = TodoApp;
